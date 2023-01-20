@@ -1,1 +1,1 @@
-# My homeassignments for machine learning course at New Economics School (NES)
+# My home assignments for machine learning course at New Economics School (NES)
